@@ -1,15 +1,9 @@
 ﻿namespace Mass_PrimeFactor.Models.Selector
 {
-    internal class AlgorthimSelector : IAlgorthimSelector
+    internal class AlgorthimSelector(IPrimeFactorAlgorithm[] algorithms) : IAlgorthimSelector
     {
-        private IPrimeFactorAlgorithm[] _algorithmList;
-        private int _index;
-
-        public AlgorthimSelector(IPrimeFactorAlgorithm[] algorithms)
-        {
-            _algorithmList = algorithms;
-            _index = 0;
-        }
+        private readonly IPrimeFactorAlgorithm[] _algorithmList = algorithms;
+        private int _index = 0;
 
         public IEnumerable<string> GetNames()
         {

@@ -1,7 +1,4 @@
-﻿using Mass_PrimeFactor.Models;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
-using System.Windows.Controls;
+﻿using System.ComponentModel;
 
 namespace Mass_PrimeFactor.ViewModels
 {

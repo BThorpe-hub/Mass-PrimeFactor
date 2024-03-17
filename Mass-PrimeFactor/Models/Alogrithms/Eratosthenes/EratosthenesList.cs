@@ -4,13 +4,12 @@ namespace Mass_PrimeFactor.Models.Alogrithm
 {
     internal class EratosthenesList : IEratosthenesList 
     {
-        private List<int> _primeNumbers;
+        private readonly List<int> _primeNumbers;
         private int _lastChecked = 2;
 
         public EratosthenesList()
         {
-            _primeNumbers = new List<int>();
-            _primeNumbers.Add(2);
+            _primeNumbers = [2];
             _lastChecked = 2;
         }
 
@@ -32,6 +31,7 @@ namespace Mass_PrimeFactor.Models.Alogrithm
                 }
             }
         }
+  
         private bool IsPrime(int checkValue)
         {
             bool isPrime = true;
@@ -44,7 +44,6 @@ namespace Mass_PrimeFactor.Models.Alogrithm
                     break;
                 }
             }
-
             return isPrime;
         }
 

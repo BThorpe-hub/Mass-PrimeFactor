@@ -1,6 +1,4 @@
-﻿using System.Reflection.Metadata;
-
-namespace Mass_PrimeFactor.Models
+﻿namespace Mass_PrimeFactor.Models
 {
     internal interface IInputModel
     {

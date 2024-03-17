@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mass-PrimeFactor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+109c833609ccff85c45ef3848cdd8eb3feec4429")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6abee7810a68cad679b77dbf5576f78d4b1d035")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mass-PrimeFactor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mass-PrimeFactor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

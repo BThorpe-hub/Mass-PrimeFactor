@@ -2,36 +2,42 @@
 
 namespace Mass_PrimeFactor.Models
 {
-    internal class InputModel : IInputModel
+    internal partial class InputModel : IInputModel
     {
-        private string inputNumber = "";
-
+        private string _inputNumber = "";
+      
+     
         public double GetNumber()
         {
-            if (Valid(inputNumber) == true)
+            if (Valid(_inputNumber) == true)
             {
-                return double.Parse(inputNumber);
+                return double.Parse(_inputNumber);
             }
             return 0;
         }
+    
         public string GetNumberAsString()
         {
-            return inputNumber;
+            return _inputNumber;
         }
 
         public void SetNumber(string value)
         {
             if (Valid(value) == true)
             {
-                inputNumber =value;
+                _inputNumber = value;
             }
         }
-        private bool Valid(string value)
+       
+        private static bool Valid(string value)
         {
             if (string.IsNullOrEmpty(value))
                 return false;
-            Regex _regex = new Regex("^[0-9]*$");
-            return _regex.IsMatch(value);
+            Regex regex = NumbersOnlyRegex();
+            return regex.IsMatch(value);
         }
+
+        [GeneratedRegex("^[0-9]*$")]
+        private static partial Regex NumbersOnlyRegex();
     }
 }

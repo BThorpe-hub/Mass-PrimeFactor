@@ -4,16 +4,12 @@ using System.ComponentModel;
 
 namespace Mass_PrimeFactor.ViewModels
 {
-    internal class MainWindowsViewModel : IMainWindowsViewModel, INotifyPropertyChanged
+    internal class MainWindowsViewModel(IInputModel inputModel, IAlgorthimSelector algorthimSelector) : IMainWindowsViewModel, INotifyPropertyChanged
     {
-        private IInputModel _inputModel;
-        private IAlgorthimSelector _algorthimSelector;
-      
-        public MainWindowsViewModel(IInputModel inputModel, IAlgorthimSelector algorthimSelector)
-        {
-            _inputModel = inputModel;
-            _algorthimSelector = algorthimSelector;
-        }
+        private readonly IInputModel _inputModel = inputModel;
+        private readonly IAlgorthimSelector _algorthimSelector = algorthimSelector;
+    
+        public event PropertyChangedEventHandler PropertyChanged;
 
         public string UserInput
         {
@@ -52,8 +48,6 @@ namespace Mass_PrimeFactor.ViewModels
                 OnPropertyChanged(nameof(PrimeFactors));
             }
         }
-
-        public event PropertyChangedEventHandler PropertyChanged;
 
         protected virtual void OnPropertyChanged(string propertyName)
         {

@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\models\\alogrithms\\eratosthenes\\eratosthenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\models\\alogrithms\\eratosthenes\\eratosthenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\models\\alogrithms\\eratosthenes\\eratostheneslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\models\\alogrithms\\eratosthenes\\eratostheneslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\models\\selector\\algorthimselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\models\\selector\\algorthimselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\models\\userinput\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\models\\userinput\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\viewmodels\\mainwindowsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\viewmodels\\mainwindowsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\viewmodels\\imainwindowsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\viewmodels\\imainwindowsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\models\\alogrithms\\iprimefactoralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\models\\alogrithms\\iprimefactoralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\models\\userinput\\iinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\models\\userinput\\iinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\models\\selector\\ialgorthimselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\models\\selector\\ialgorthimselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\models\\alogrithms\\testalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\models\\alogrithms\\testalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|c:\\users\\ben\\documents\\github\\mass-primefactor\\mass-primefactor\\models\\alogrithms\\eratosthenes\\ieratostheneslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CCEF8-98FA-4D06-9117-7F630DE2E842}|Mass-PrimeFactor\\Mass-PrimeFactor.csproj|solutionrelative:mass-primefactor\\models\\alogrithms\\eratosthenes\\ieratostheneslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\ViewModels\\MainWindowsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -64,11 +120,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAEwB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:24:42.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindowsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\ViewModels\\MainWindowsViewModel.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\ViewModels\\MainWindowsViewModel.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\ViewModels\\MainWindowsViewModel.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\ViewModels\\MainWindowsViewModel.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:29:31.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMainWindowsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\ViewModels\\IMainWindowsViewModel.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\ViewModels\\IMainWindowsViewModel.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\ViewModels\\IMainWindowsViewModel.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\ViewModels\\IMainWindowsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:29:22.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPrimeFactorAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\IPrimeFactorAlgorithm.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\Models\\Alogrithms\\IPrimeFactorAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\IPrimeFactorAlgorithm.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\Models\\Alogrithms\\IPrimeFactorAlgorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:29:07.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\UserInput\\InputModel.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\Models\\UserInput\\InputModel.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\UserInput\\InputModel.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\Models\\UserInput\\InputModel.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAArwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:28:16.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\UserInput\\IInputModel.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\Models\\UserInput\\IInputModel.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\UserInput\\IInputModel.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\Models\\UserInput\\IInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:28:12.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAlgorthimSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Selector\\IAlgorthimSelector.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\Models\\Selector\\IAlgorthimSelector.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Selector\\IAlgorthimSelector.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\Models\\Selector\\IAlgorthimSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:28:06.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AlgorthimSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Selector\\AlgorthimSelector.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\Models\\Selector\\AlgorthimSelector.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Selector\\AlgorthimSelector.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\Models\\Selector\\AlgorthimSelector.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAvwAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:27:52.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\TestAlgorithm.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\Models\\Alogrithms\\TestAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\TestAlgorithm.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\Models\\Alogrithms\\TestAlgorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:27:27.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEratosthenesList.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\IEratosthenesList.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\IEratosthenesList.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\IEratosthenesList.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\IEratosthenesList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:26:38.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EratosthenesList.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\EratosthenesList.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\EratosthenesList.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\EratosthenesList.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\EratosthenesList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAEwAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:25:54.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eratosthenes.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\Eratosthenes.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\Eratosthenes.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\Eratosthenes.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\Eratosthenes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAvwAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:25:06.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\AssemblyInfo.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:30:08.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Mass-PrimeFactor\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Ben\\Documents\\GitHub\\Mass-PrimeFactor\\Mass-PrimeFactor\\App.xaml.cs",
+              "RelativeToolTip": "Mass-PrimeFactor\\App.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:30:13.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Views\\MainWindow.xaml.cs",
@@ -76,11 +314,12 @@
               "RelativeToolTip": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Views\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAADwvxEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T22:23:41.934Z"
+              "WhenOpened": "2024-03-13T22:23:41.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "IMainWindowsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\ViewModels\\IMainWindowsViewModel.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\ViewModels\\IMainWindowsViewModel.cs",
@@ -92,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "MainWindowsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\ViewModels\\MainWindowsViewModel.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\ViewModels\\MainWindowsViewModel.cs",
@@ -105,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "mainwindow.xaml",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Views\\mainwindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Views\\mainwindow.xaml",
@@ -116,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "IPrimeFactorAlgorithm.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\IPrimeFactorAlgorithm.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\IPrimeFactorAlgorithm.cs",
@@ -128,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\App.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\App.xaml.cs",
@@ -140,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "AlgorthimSelector.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Selector\\AlgorthimSelector.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Selector\\AlgorthimSelector.cs",
@@ -152,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "IAlgorthimSelector.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Selector\\IAlgorthimSelector.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Selector\\IAlgorthimSelector.cs",
@@ -164,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "TestAlgorithm.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\TestAlgorithm.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\TestAlgorithm.cs",
@@ -176,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "Eratosthenes.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\Eratosthenes.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\Eratosthenes.cs",
@@ -188,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\App.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\App.xaml",
@@ -199,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "IInputModel.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\UserInput\\IInputModel.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\UserInput\\IInputModel.cs",
@@ -211,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "InputModel.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\UserInput\\InputModel.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\UserInput\\InputModel.cs",
@@ -223,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "EratosthenesList.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\EratosthenesList.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\EratosthenesList.cs",
@@ -235,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "IEratosthenesList.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\IEratosthenesList.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\Models\\Alogrithms\\Eratosthenes\\IEratosthenesList.cs",
@@ -247,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "PropertyPathWorker.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
@@ -260,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Mass-PrimeFactor\\Mass-PrimeFactor\\AssemblyInfo.cs",
@@ -272,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\Ben\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",

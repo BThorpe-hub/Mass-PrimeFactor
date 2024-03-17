@@ -2,6 +2,5 @@
 {
     internal interface IEratosthenesList : IEnumerable<int>
     {
-        public IEnumerator<int> GetEnumerator();     
     }
 }
