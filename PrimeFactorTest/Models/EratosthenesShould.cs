@@ -38,9 +38,9 @@ namespace PrimeFactorTest.Models
         }
 
         [Theory]
-        [InlineData("2, 3", new int[] { 1, 2, 3 })]
-        [InlineData("2, 3", new int[] { 1, 2, 2, 3 })]
-        [InlineData("2", new int[] { 1 })]
+        [InlineData("1, 2, 3", new int[] { 1, 2, 3 })]
+        [InlineData("1, 2, 3", new int[] { 1, 2, 2, 3 })]
+        [InlineData("1", new int[] { 1 })]
         [InlineData("", new int[] { })]
         public static void FactorsToString(string expected, IEnumerable<int> factors)
         {
