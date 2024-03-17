@@ -2,7 +2,7 @@
 
 namespace Mass_PrimeFactor.Models.Alogrithm
 {
-    internal class EratosthenesList : IEratosthenesList 
+    public class EratosthenesList : IEratosthenesList 
     {
         private readonly List<int> _primeNumbers;
         private int _lastChecked = 2;

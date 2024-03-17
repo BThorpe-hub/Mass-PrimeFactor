@@ -2,7 +2,7 @@
 
 namespace Mass_PrimeFactor.Models
 {
-    internal class Eratosthenes(IEratosthenesList primeNumbers) : IPrimeFactorAlgorithm
+    public class Eratosthenes(IEratosthenesList primeNumbers) : IPrimeFactorAlgorithm
     {
         private const string _name = "Eratosthenes";
         private readonly IEratosthenesList _primeNumbers = primeNumbers;
@@ -12,7 +12,7 @@ namespace Mass_PrimeFactor.Models
             if (number == 0)
                 return "Please Enter a Valid Number";
 
-            List<int> factors = [1];
+            List<int> factors = new List<int>();
 
             foreach (int prime in _primeNumbers)
             {
@@ -35,7 +35,7 @@ namespace Mass_PrimeFactor.Models
             return _name;
         }
 
-        private static string FactorsToString(IEnumerable<int> factors)
+        public static string FactorsToString(IEnumerable<int> factors)
         {
             var distinct = factors.Distinct();
             return string.Join(", ", distinct);

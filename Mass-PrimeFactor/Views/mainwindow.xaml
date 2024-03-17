@@ -20,33 +20,20 @@
             <ColumnDefinition Width="258*"/>
             <ColumnDefinition Width="21"/>
         </Grid.ColumnDefinitions>
-        <TextBlock FontSize="15" Grid.Column="1" Grid.Row="0" Margin="1,18,278,19" Grid.ColumnSpan="2">
-            <TextBlock.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform AngleX="-0.364"/>
-                    <RotateTransform/>
-                    <TranslateTransform X="-0.327"/>
-                </TransformGroup>
-            </TextBlock.RenderTransform>
-            <Run Text="Please enter a Number you wish to determine all of it's prime factor"/>
+        <!--Row 1-->
+        <TextBlock Grid.Row="0" Grid.Column="1" FontSize="15" Width="499" Height="41">
+                <Run Text="Please enter a Number you wish to determine all of it's prime factor"/>
         </TextBlock>
         <Border Grid.Column="2" Grid.Row="0" Margin="0,7,0,7" Background="GhostWhite" BorderBrush="Silver" BorderThickness="3" CornerRadius="8,8,3,3">
-            <TextBox FontSize="15" Grid.Column="2" Grid.Row="0" Margin="0" Text="{Binding UserInput, UpdateSourceTrigger=PropertyChanged}">
-            </TextBox>
+            <TextBox FontSize="15" Grid.Column="2" Grid.Row="0" Margin="0" Text="{Binding UserInput, UpdateSourceTrigger=PropertyChanged}"/>
         </Border>
+        <!--Row 2-->
         <TextBlock FontSize="15" Grid.Row="1" Grid.Column="1">
-  <Run Text="Please select an Algorithm"/>
+            <Run Text="Please select an Algorithm"/>
         </TextBlock>
-        <!--<ComboBox Name="cmbAlogirthm" 
-                  SelectedIndex="0" 
-                  FontSize="15" 
-                  ItemsSource="{Binding Path=PrimeFactorAlgorithms}" 
-                  SelectedValue="{Binding Path=SelectedAlgorithm, Mode=TwoWay}"
-                  Grid.Row="1" Grid.Column="1" Margin="180,0,0,60">
-        </ComboBox>-->
         <ComboBox Grid.Row="1" Grid.Column="2" ItemsSource="{Binding Path=PrimeFactorAlgorithmsNames}"
          SelectedIndex="{Binding Path=SelectedAlgorithm, Mode=TwoWay}"></ComboBox>
+        <!--Row 3-->
         <TextBlock FontSize="15" Grid.Row="2" Grid.Column="1" Margin="0,0,0,38" Grid.ColumnSpan="1" Grid.RowSpan="1">
             <TextBlock.RenderTransform>
                 <TransformGroup>
